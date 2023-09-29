@@ -1,0 +1,1 @@
+scons platform=linuxbsd target=editor production=yes lto=full
